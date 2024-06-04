@@ -1,3 +1,9 @@
+# config
+config.js
+
+# cache
+exhaust
+
 # Logs
 logs
 *.log
